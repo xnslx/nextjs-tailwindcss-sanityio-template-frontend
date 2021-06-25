@@ -1,29 +1,25 @@
-# Next.js + Tailwind CSS Example
+# A Nextjs, styling with Tailwind CSS and using Sanityio as a CMS business landing page template.
 
-This example shows how to use [Tailwind CSS](https://tailwindcss.com/) [(v2.2)](https://blog.tailwindcss.com/tailwindcss-2-2) with Next.js. It follows the steps outlined in the official [Tailwind docs](https://tailwindcss.com/docs/guides/nextjs).
+<img src="https://github.com/xnslx/nextjs-tailwindcss-sanityio-template-frontend/blob/main/public/ezgif.com-gif-maker%20(21).gif" width="600" height="auto">
 
-It uses the new [`Just-in-Time Mode`](https://tailwindcss.com/docs/just-in-time-mode) for Tailwind CSS.
+## Introduction
+<p>Hey everyone, 🖐 welcome to my Nextjs project integrating with Sanityio as the CMS.</p>
 
-## Preview
+## Stack
+<p>The stack: Nextjs, Node.js, Tailwind CSS, SanityIo </p>
 
-Preview the example live on [StackBlitz](http://stackblitz.com/):
+## Getting Started
 
-[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/vercel/next.js/tree/canary/examples/with-tailwindcss)
-
-## Deploy your own
-
-Deploy the example using [Vercel](https://vercel.com?utm_source=github&utm_medium=readme&utm_campaign=next-example):
-
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/git/external?repository-url=https://github.com/vercel/next.js/tree/canary/examples/with-tailwindcss&project-name=with-tailwindcss&repository-name=with-tailwindcss)
-
-## How to use
-
-Execute [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app) with [npm](https://docs.npmjs.com/cli/init) or [Yarn](https://yarnpkg.com/lang/en/docs/cli/create/) to bootstrap the example:
+Run the development server:
 
 ```bash
-npx create-next-app --example with-tailwindcss with-tailwindcss-app
+npm run dev
 # or
-yarn create next-app --example with-tailwindcss with-tailwindcss-app
+yarn dev
 ```
 
-Deploy it to the cloud with [Vercel](https://vercel.com/new?utm_source=github&utm_medium=readme&utm_campaign=next-example) ([Documentation](https://nextjs.org/docs/deployment)).
+You also need to create an account <a>https://www.sanity.io/</a> here and get the ``projectId``, then replace my ``projectId`` with yours so as to run it.
+
+If you are interested in my application. Please let me know if there is anything that I can help with. 
+
+Please star 🌟 it if you like it. 
