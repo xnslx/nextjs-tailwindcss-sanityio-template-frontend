@@ -1,6 +1,6 @@
 # A Nextjs, styling with Tailwind CSS and using Sanityio as a CMS business landing page template.
 
-<img src="https://github.com/xnslx/nextjs-tailwindcss-sanityio-template-frontend/blob/main/public/ezgif.com-gif-maker%20(21).gif" width="600" height="auto">
+<img src="https://github.com/xnslx/nextjs-tailwindcss-sanityio-template-frontend/blob/main/public/full%20demo.gif" width="600" height="auto">
 
 ## Introduction
 <p>Hey everyone, 🖐 welcome to my Nextjs project integrating with Sanityio as the CMS.</p>
