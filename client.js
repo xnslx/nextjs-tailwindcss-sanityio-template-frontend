@@ -1,9 +1,8 @@
 import { createClient, createImageUrlBuilder } from "next-sanity";
-import { projectId } from "./config";
 
 const config = {
     dataset: "production",
-    projectId: projectId,
+    projectId: "aqm1x7ig",
     useCdn: false,
 };
 export const urlFor = (source) => createImageUrlBuilder(config).image(source);
