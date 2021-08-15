@@ -20,6 +20,8 @@ yarn dev
 
 You also need to create an account <a>https://www.sanity.io/</a> here and get the ``projectId``, then replace my ``projectId`` with yours so as to run it.
 
+This is the demo, https://confident-curie-f8c533.netlify.app/
+
 If you are interested in my application. Please let me know if there is anything that I can help with. 
 
 Please star 🌟 it if you like it. 
